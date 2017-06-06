@@ -1,0 +1,6 @@
+1) Get list of state senate/house reps + fed senate/house reps
+2) Find social media info (twitter/fb usernames) for each
+3) Categorize posts by topic and run sentiment analysis
+4) Show sentiment for each topic by rep in specified area
+
+5) Scrape google news/speeches for each rep and do sentiment analysis
